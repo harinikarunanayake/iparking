@@ -1,5 +1,5 @@
 {
-  "homepage": "http://harinikarunanayake.github.io/iparking",
+  "homepage": "https://github.com/Himeshacs/React-native-login.git",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "predeploy": "npm run build",
